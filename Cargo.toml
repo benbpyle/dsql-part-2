@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "rust/cache-creator",
+    "rust/data-seeder",
+    "rust/shared",
+    "rust/get-lambda"
+]
+
+resolver = "2"

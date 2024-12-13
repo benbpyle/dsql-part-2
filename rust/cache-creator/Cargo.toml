@@ -1,0 +1,9 @@
+[package]
+name = "cache-creator"
+version = "0.1.0"
+edition = "2021"
+authors = ["Benjamen Pyle"]
+
+[dependencies]
+momento = "0.44.0"
+tokio = { version = "1.42.0", features = ["full"] }
